@@ -1,4 +1,3 @@
-<img href="/src/images
-/img.png">
+<img src="/src/images/img.png">
 
 
